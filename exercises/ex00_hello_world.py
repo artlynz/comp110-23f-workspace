@@ -1,2 +1,2 @@
-__author___ = "730698705"
-print("Hello, world.")
+print("Hello, world.") 
+__author__ = "730698705"
